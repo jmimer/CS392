@@ -1,1 +1,1 @@
-A C program to sort files of strings, ints, or doubles. The files will be sorted using quicksort with lomuto partitioning. This t is intended to cover pointers, pointer conversion, file reading, type conversion, function pointers, and makefiles.
+A C program to sort files of strings, ints, or doubles. The files will be sorted using quicksort with lomuto partitioning. This is intended to cover pointers, pointer conversion, file reading, type conversion, function pointers, and makefiles.
