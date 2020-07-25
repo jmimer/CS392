@@ -1,0 +1,9 @@
+./mtsieve -s100 -e200000000 -t1 : 0m3.989s
+./mtsieve -s100 -e200000000 -t2 : 0m3.455s
+./mtsieve -s100 -e200000000 -t3 : 0m3.381s
+./mtsieve -s100 -e200000000 -t4 : 0m3.391s
+
+Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+
+As the number of threads increase the time deceases, but at a slower and slower rate. The rate of change of
+time decreases and the change of time plateaus.
